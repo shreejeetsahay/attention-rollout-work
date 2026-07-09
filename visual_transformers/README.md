@@ -92,7 +92,7 @@ If you use this work, please cite:
 @misc{vit-rollout-pooling,
   title={Assessing the Beneficiality of Attention Rollout for Pooling in Vision Transformers},
   author={Shreejeet Sahay},
-  year={2026}
+  year={2025}
 }
 ```
 
